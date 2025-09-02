@@ -1,0 +1,8 @@
+langchain
+langchain-groq
+FAISS-cpu
+pypdf
+langchain-community
+langchain-core
+ollama
+langchain-ollama
